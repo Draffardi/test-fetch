@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nickname": "Sergey Alexeev",
+      "message": "good day",
+      "time": "115512"
+    },
+    {
+      "id": 2,
+      "nickname": "Dimitriy1125",
+      "message": "message124",
+      "time": "112512"
+    },
+    {
+      "id": 3,
+      "nickname": "httpie",
+      "message": "me124",
+      "time": "112000"
+    },
+    {
+      "nickname": "POST XHR",
+      "message": "Add message from XHR.js",
+      "time": "112000",
+      "id": 4
+    },
+    {
+      "nickname": "POST FETCH",
+      "message": "Add message from fetch.js",
+      "time": "889000",
+      "id": 5
+    }
+  ]
+}
